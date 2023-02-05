@@ -2,9 +2,9 @@
 It's an adapter of AWS S3 for Yii2 that integrating with atellitech/flysystem-yii2
 
 ## Supports
-- AWS S3
+- AWS S3   
 Please see [https://flysystem.thephpleague.com/docs/adapter/aws-s3-v3/](https://flysystem.thephpleague.com/docs/adapter/aws-s3-v3/)
-- Async AWS S3
+- Async AWS S3   
 Please see [https://flysystem.thephpleague.com/docs/adapter/async-aws-s3/](https://flysystem.thephpleague.com/docs/adapter/async-aws-s3/)
 
 ## Getting Start
